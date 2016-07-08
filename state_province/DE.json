@@ -1,0 +1,18 @@
+[
+    {"short": "NDS", "long": "Niedersachsen"},
+    {"short": "BAW", "long": "Baden-Württemberg"},
+    {"short": "BAY", "long": "Bayern"},
+    {"short": "BER", "long": "Berlin"},
+    {"short": "BRG", "long": "Brandenburg"},
+    {"short": "BRE", "long": "Bremen"},
+    {"short": "HAM", "long": "Hamburg"},
+    {"short": "HES", "long": "Hessen"},
+    {"short": "MEC", "long": "Mecklenburg-Vorpommern"},
+    {"short": "NRW", "long": "Nordrhein-Westfalen"},
+    {"short": "RHE", "long": "Rheinland-Pfalz"},
+    {"short": "SAR", "long": "Saarland"},
+    {"short": "SAS", "long": "Sachsen"},
+    {"short": "SAC", "long": "Sachsen-Anhalt"},
+    {"short": "SCN", "long": "Schleswig-Holstein"},
+    {"short": "THE", "long": "Thüringen"}
+]

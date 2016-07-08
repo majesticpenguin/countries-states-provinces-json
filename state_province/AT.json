@@ -1,0 +1,11 @@
+[
+    {"short": "WI", "long": "Wien"},
+    {"short": "NO", "long": "Niederösterreich"},
+    {"short": "OO", "long": "Oberösterreich"},
+    {"short": "SB", "long": "Salzburg"},
+    {"short": "KN", "long": "Kärnten"},
+    {"short": "ST", "long": "Steiermark"},
+    {"short": "TI", "long": "Tirol"},
+    {"short": "BL", "long": "Burgenland"},
+    {"short": "VB", "long": "Vorarlberg"}
+]

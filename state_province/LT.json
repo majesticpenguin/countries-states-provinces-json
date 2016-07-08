@@ -1,0 +1,12 @@
+[
+    {"short": "LT-AL", "long": "Alytaus Apskritis"},
+    {"short": "LT-KU", "long": "Kauno Apskritis"},
+    {"short": "LT-KL", "long": "Klaipėdos Apskritis"},
+    {"short": "LT-MR", "long": "Marijampolės Apskritis"},
+    {"short": "LT-PN", "long": "Panevėžio Apskritis"},
+    {"short": "LT-SA", "long": "Šiaulių Apskritis"},
+    {"short": "LT-TA", "long": "Tauragės Apskritis"},
+    {"short": "LT-TE", "long": "Telšių Apskritis"},
+    {"short": "LT-UT", "long": "Utenos Apskritis"},
+    {"short": "LT-VL", "long": "Vilniaus Apskritis"}
+]

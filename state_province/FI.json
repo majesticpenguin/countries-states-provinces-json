@@ -1,0 +1,22 @@
+[
+    {"short": "Lappi", "long": "Lappi"},
+    {"short": "Pohjois-Pohjanmaa", "long": "Pohjois-Pohjanmaa"},
+    {"short": "Kainuu", "long": "Kainuu"},
+    {"short": "Pohjois-Karjala", "long": "Pohjois-Karjala"},
+    {"short": "Pohjois-Savo", "long": "Pohjois-Savo"},
+    {"short": "Etelä-Savo", "long": "Etelä-Savo"},
+    {"short": "Etelä-Pohjanmaa", "long": "Etelä-Pohjanmaa"},
+    {"short": "Pohjanmaa", "long": "Pohjanmaa"},
+    {"short": "Pirkanmaa", "long": "Pirkanmaa"},
+    {"short": "Satakunta", "long": "Satakunta"},
+    {"short": "Keski-Pohjanmaa", "long": "Keski-Pohjanmaa"},
+    {"short": "Keski-Suomi", "long": "Keski-Suomi"},
+    {"short": "Varsinais-Suomi", "long": "Varsinais-Suomi"},
+    {"short": "Etelä-Karjala", "long": "Etelä-Karjala"},
+    {"short": "Päijät-Häme", "long": "Päijät-Häme"},
+    {"short": "Kanta-Häme", "long": "Kanta-Häme"},
+    {"short": "Uusimaa", "long": "Uusimaa"},
+    {"short": "Itä-Uusimaa", "long": "Itä-Uusimaa"},
+    {"short": "Kymenlaakso", "long": "Kymenlaakso"},
+    {"short": "Ahvenanmaa", "long": "Ahvenanmaa"}
+]

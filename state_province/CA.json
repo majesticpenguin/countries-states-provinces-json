@@ -1,0 +1,15 @@
+[
+    {"short": "AB", "long": "Alberta"},
+    {"short": "BC", "long": "British Columbia"},
+    {"short": "MB", "long": "Manitoba"},
+    {"short": "NL", "long": "Newfoundland and Labrador"},
+    {"short": "NB", "long": "New Brunswick"},
+    {"short": "NS", "long": "Nova Scotia"},
+    {"short": "NT", "long": "Northwest Territories"},
+    {"short": "NU", "long": "Nunavut"},
+    {"short": "ON", "long": "Ontario"},
+    {"short": "PE", "long": "Prince Edward Island"},
+    {"short": "QC", "long": "Quebec"},
+    {"short": "SK", "long": "Saskatchewan"},
+    {"short": "YT", "long": "Yukon Territory"}
+]

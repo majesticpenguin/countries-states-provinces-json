@@ -1,0 +1,17 @@
+[
+    {"short": "EE-37", "long": "Harjumaa"},
+    {"short": "EE-39", "long": "Hiiumaa"},
+    {"short": "EE-44", "long": "Ida-Virumaa"},
+    {"short": "EE-49", "long": "Jõgevamaa"},
+    {"short": "EE-51", "long": "Järvamaa"},
+    {"short": "EE-57", "long": "Läänemaa"},
+    {"short": "EE-59", "long": "Lääne-Virumaa"},
+    {"short": "EE-65", "long": "Põlvamaa"},
+    {"short": "EE-67", "long": "Pärnumaa"},
+    {"short": "EE-70", "long": "Raplamaa"},
+    {"short": "EE-74", "long": "Saaremaa"},
+    {"short": "EE-78", "long": "Tartumaa"},
+    {"short": "EE-82", "long": "Valgamaa"},
+    {"short": "EE-84", "long": "Viljandimaa"},
+    {"short": "EE-86", "long": "Võrumaa"}
+]
