@@ -1,11 +1,11 @@
 [
-    {"short": "WI", "long": "Wien"},
-    {"short": "NO", "long": "Niederösterreich"},
-    {"short": "OO", "long": "Oberösterreich"},
-    {"short": "SB", "long": "Salzburg"},
-    {"short": "KN", "long": "Kärnten"},
-    {"short": "ST", "long": "Steiermark"},
-    {"short": "TI", "long": "Tirol"},
-    {"short": "BL", "long": "Burgenland"},
-    {"short": "VB", "long": "Vorarlberg"}
+    {"code": "WI", "name": "Wien"},
+    {"code": "NO", "name": "Niederösterreich"},
+    {"code": "OO", "name": "Oberösterreich"},
+    {"code": "SB", "name": "Salzburg"},
+    {"code": "KN", "name": "Kärnten"},
+    {"code": "ST", "name": "Steiermark"},
+    {"code": "TI", "name": "Tirol"},
+    {"code": "BL", "name": "Burgenland"},
+    {"code": "VB", "name": "Vorarlberg"}
 ]

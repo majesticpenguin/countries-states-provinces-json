@@ -1,15 +1,15 @@
 [
-    {"short": "AB", "long": "Alberta"},
-    {"short": "BC", "long": "British Columbia"},
-    {"short": "MB", "long": "Manitoba"},
-    {"short": "NL", "long": "Newfoundland and Labrador"},
-    {"short": "NB", "long": "New Brunswick"},
-    {"short": "NS", "long": "Nova Scotia"},
-    {"short": "NT", "long": "Northwest Territories"},
-    {"short": "NU", "long": "Nunavut"},
-    {"short": "ON", "long": "Ontario"},
-    {"short": "PE", "long": "Prince Edward Island"},
-    {"short": "QC", "long": "Quebec"},
-    {"short": "SK", "long": "Saskatchewan"},
-    {"short": "YT", "long": "Yukon Territory"}
+    {"code": "AB", "name": "Alberta"},
+    {"code": "BC", "name": "British Columbia"},
+    {"code": "MB", "name": "Manitoba"},
+    {"code": "NL", "name": "Newfoundland and Labrador"},
+    {"code": "NB", "name": "New Brunswick"},
+    {"code": "NS", "name": "Nova Scotia"},
+    {"code": "NT", "name": "Northwest Territories"},
+    {"code": "NU", "name": "Nunavut"},
+    {"code": "ON", "name": "Ontario"},
+    {"code": "PE", "name": "Prince Edward Island"},
+    {"code": "QC", "name": "Quebec"},
+    {"code": "SK", "name": "Saskatchewan"},
+    {"code": "YT", "name": "Yukon Territory"}
 ]
